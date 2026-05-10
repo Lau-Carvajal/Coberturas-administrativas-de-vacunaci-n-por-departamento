@@ -1,0 +1,2 @@
+# Coberturas-administrativas-de-vacunaci-n-por-departamento
+El dataset contiene datos de cobertura de vacunación por departamento en Colombia, mostrando el avance porcentual en la aplicación de distintos biológicos del esquema nacional de vacunación. Esta información permite analizar qué departamentos presentan mayores o menores niveles de cobertura y sirve como apoyo para estudios de salud pública.
